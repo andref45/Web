@@ -1,0 +1,31 @@
+.cabecera{  
+    height: 170px;
+    background-color: rgb(48, 71, 202);
+}
+.cabecera img{
+    width: 10%;
+}
+.cabecera .botones{
+    float: right;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+.container ul{
+    display: flex;
+    list-style: none;
+}
+.container ul li{
+    margin:20px 10px;
+    font-size: 1.vi;
+    font-family: 'Courier New', Courier, monospace;
+}
+.container ul li a{
+    color: blanchedalmond;
+    text-decoration: none;
+}
+.container ul li a:hover{
+
+}
